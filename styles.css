@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+  
+body {
+    display: flex;
+    flex-direction: column;
+}
+  
+.container {
+    flex: 1;
+}
+
+#heading-1 {
+    background-color: #d9d9d9;
+    color: black;
+    text-align: center;
+    padding: 5px;
+}
+
+.btn-primary {
+    background-color: #051d43;
+    border-color: transparent;
+}
+
+footer {
+    width: 100%;
+    background-color: #203858; /* or any color you want for the footer background */
+    color: white; /* or any color you want for the footer text */
+    text-align: center; /* to center-align text */
+    padding: 20px 0; /* to add some padding */
+}
