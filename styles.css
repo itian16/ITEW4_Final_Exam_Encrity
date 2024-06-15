@@ -31,3 +31,10 @@ footer {
     text-align: center; /* to center-align text */
     padding: 20px 0; /* to add some padding */
 }
+
+#heading-1 {
+    background-color: #203858;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
